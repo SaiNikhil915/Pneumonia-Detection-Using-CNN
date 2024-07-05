@@ -29,7 +29,8 @@ Interface (GUI) to empower medical
 personnel with a practical tool flask for
 quick and intuitive pneumonia
 assessment.
-Despite the accurate results we achieved,
+
+-Despite the accurate results we achieved,
 we have also encountered certain
 limitations in our approach, including
 dataset size and potential overfitting
